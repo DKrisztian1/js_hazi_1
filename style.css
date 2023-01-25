@@ -1,0 +1,6 @@
+fieldset{
+    width: 35%;
+    border-radius: 10px;
+    background-color: wheat;
+    box-shadow: 25px 25px 10px rgb(82, 60, 31);
+}
